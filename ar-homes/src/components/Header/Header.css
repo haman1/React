@@ -1,0 +1,24 @@
+.h-wrapper {
+    background: var(--black);
+    color: white;
+}
+h2{
+    color: rgb(47, 255, 227);
+}
+span{
+    color:rgb(38, 129, 248);
+}
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--secondary);
+}
+
+.h-menu{
+    gap: 2rem;
+}
+
+.h.menu>*:hover{
+    cursor: pointer;
+}
