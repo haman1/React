@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import{BiMenuAltRight} from 'react-icons/bi'
 import './Header.css'
 function Header() {
   return (
@@ -18,8 +19,13 @@ function Header() {
                 </button>
                
             </div>
+            <div className="menu-icon">
+          <BiMenuAltRight size={30} />
         </div>
 
+        </div>
+
+      
     </section>
   )
 }

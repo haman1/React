@@ -11,7 +11,7 @@ function GetStarted() {
                 </span>
 
                 <button className="button">
-                    <a href="mailto:ombasaherman@gmail.com">Get Started</a>
+                    <a href="mailto:ar-homes@gmail.com">Get Started</a>
                 </button>
             </div>
         </div>
