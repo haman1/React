@@ -1,0 +1,20 @@
+.f-container{
+    justify-content: space-between;
+}
+
+.f-left{
+    gap: 1rem;
+}
+
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+
+h2{
+    color: rgb(47, 255, 227);
+}
+h2 span{
+    color:rgb(38, 129, 248);
+}
